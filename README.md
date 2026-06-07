@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-your-name-alone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Whispering Your Name Alone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-name-alone/) |
+| **Get License** | [License this song: Whispering Your Name Alone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-name-alone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `789a1d060fbda5efe827cb0d657d16f987863d2fa22c5387f9ee55d22a040f6c` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
