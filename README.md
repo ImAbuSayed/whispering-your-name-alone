@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-your-name-alone/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Whispering Your Name Alone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-name-alone/) |
+| **Get License** | [Request Licensing for Whispering Your Name Alone](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-your-name-alone/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the embers glowing when you lean into the dark
+> A silent kind of thunder striking right across my heart
+> Your shadow in the doorway is a promise in the room
+> And I just want to trace the way you breathe against the moon
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
